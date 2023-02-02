@@ -203,5 +203,53 @@ namespace TriangleCheckTests
             //Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [Test]
+        public void triangle_input5and8and35_verifyInvalid()
+        {
+            //Arrange
+            int firstSideInput = 5;
+            int secondSideInput = 8;
+            int thirdSideInput = 35;
+            string expected = "Based on the values entered, the triangle is INVALID";
+
+            //Act
+            string actual = Triangle.AnalyzeTriangle(firstSideInput, secondSideInput, thirdSideInput);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [Test]
+        public void triangle_input5and8and01_verifyInvalid()
+        {
+            //Arrange
+            int firstSideInput = 5;
+            int secondSideInput = 8;
+            int thirdSideInput = 01;
+            string expected = "Based on the values entered, the triangle is INVALID";
+
+            //Act
+            string actual = Triangle.AnalyzeTriangle(firstSideInput, secondSideInput, thirdSideInput);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [Test]
+        public void triangle_input25and37andminus25_verifyInvalid()
+        {
+            //Arrange
+            int firstSideInput = 25;
+            int secondSideInput = 37;
+            int thirdSideInput = -25;
+            string expected = "Based on the values entered, the triangle is INVALID";
+
+            //Act
+            string actual = Triangle.AnalyzeTriangle(firstSideInput, secondSideInput, thirdSideInput);
+
+            //Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
