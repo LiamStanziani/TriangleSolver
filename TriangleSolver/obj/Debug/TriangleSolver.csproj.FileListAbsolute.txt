@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\fangt\Desktop\SEM 2 2ND YEAR\PROG2070 - Software Quality Assurance\Assignment2-LS\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
